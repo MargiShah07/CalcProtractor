@@ -1,0 +1,19 @@
+{
+  "name": "calcdemo",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "calc_spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "internet-explorer-version": "^1.0.0",
+    "jasminewd2": "^2.2.0",
+    "protractor": "^5.4.2",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "winston": "^3.2.1",
+    "xlsx": "^0.14.2"
+  }
+}

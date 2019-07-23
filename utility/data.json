@@ -1,0 +1,17 @@
+{
+    "url" : "http://way2automation.com/angularjs-protractor/calc/",
+"add" :{
+    "a":20,
+    "b":20
+},
+
+"sub" :{
+    "a":10,
+    "b":5
+},
+
+"div" :{
+    "a":10,
+    "b":5
+}
+}
