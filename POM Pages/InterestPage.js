@@ -18,6 +18,7 @@ var Interest=function(){
     //     back.click();
     //     return require('./ProfilePage.js');
     // }
+    
 };
 
 module.exports=new Interest();
